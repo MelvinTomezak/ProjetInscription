@@ -1,8 +1,8 @@
 {
   "action": "add",
   "data": {
-    "nom": "Nathoune",
-    "email": "bebew@test.com",
+    "nom": "Eleve",
+    "email": "Eleve@test.com",
     "password": "mdp"
   }
 }

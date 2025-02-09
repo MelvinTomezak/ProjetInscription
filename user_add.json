@@ -1,0 +1,8 @@
+{
+  "action": "add",
+  "data": {
+    "nom": "Nathoune",
+    "email": "bebew@test.com",
+    "password": "mdp"
+  }
+}

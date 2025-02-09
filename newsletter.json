@@ -1,0 +1,7 @@
+{
+  "action": "newsletter",
+  "data": {
+    "subject": "Nouveautés de la semaine",
+    "message": "test"
+  }
+}

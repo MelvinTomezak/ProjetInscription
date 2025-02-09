@@ -1,0 +1,9 @@
+{
+  "action": "update",
+  "data": {
+    "id": 20,
+    "nom": "NathouneDoBrazil@test.com",
+    "email": "nathoune@teste.com",
+    "password": "newpassword123"
+  }
+}

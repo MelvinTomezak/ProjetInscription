@@ -227,5 +227,4 @@ cat log.txt
 ---
 
 ## 🎉 **Félicitations ! Le projet est maintenant opérationnel.** 🚀🔥
-Si vous avez des questions, n'hésitez pas à me contacter ! 😃
 

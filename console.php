@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Point d'entrée (pour lancer le programme php console.php fichier.json)
+ */
 require_once __DIR__ . '/vendor/autoload.php';
 
 use App\Config\ConfigBD;
@@ -17,7 +19,7 @@ use Symfony\Component\Console\Application;
 $pdo = ConfigBD::getConnection();
 $userRepo = new UserRepository($pdo);
 $mailerService = new MailerService();
-$logger = new LoggerService(); // ✅ Création du logger
+$logger = new LoggerService();
 $userService = new UserService($userRepo, $mailerService, $logger);
 $newsletterService = new NewsletterService($userRepo, $mailerService, $logger);
 

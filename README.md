@@ -1,4 +1,4 @@
-# 📌 **Projet d'Inscription - CLI (Mise à jour avec fichiers JSON)**
+# 📌 **Projet d'Inscription (Architecture Logicielle TP Inscription)**
 
 ### 👥 Équipe du Projet
 - TOMEZAK Melvin
